@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>WebPerf Impacters, un 🎙 Podcast sobre Web Performance</title>
+    <meta property="og:title" content="WebPerf Impacters" />
+    <meta property="og:locale" content="es_ES" />
+    <meta
+      property="og:description"
+      content="🎙 Podcast sobre Web Performance en el que encontrarás toda la actualidad sobre #webperf, tips, best practices y case studies para conseguir un rendimiento de 100."
+    />
+    <meta property="og:url" content="https://www.webperfimpacters.com" />
+    <meta property="og:image" content="https://www.webperfimpacters.com/assets/WebPerfImpacters.jpg" />
+    <link rel="preload" as="image" href="/assets/micro.svg" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" />
+    <link rel="preload" as="style" href="https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap" />
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Mukta:wght@300&display=swap" media="print" onload="this.media='all'" />
+    <style>
+      :root {
+        --brand-color: #0cce6b;
+        --text-color: #353535;
+        --font-family: "Mukta", sans-serif;
+      }
+      html { height: 100% }
+      body {
+        color: var(--text-color);
+        display: grid;
+        height: 100%;
+        place-items: center;
+        font-family: var(--font-family);
+      }
+      .Content {
+        max-width: 70ch;
+        padding: 2ch;
+      }
+      .Header {
+        font-size: 1.4ch;
+        text-align: center;
+        margin-bottom: 4ch;
+      }
+      .Title { margin: 0 }
+      .Logo { margin-right: 1ch }
+      .Description { line-height: 1.5 }
+      .Highlight {
+        color: var(--brand-color);
+        text-decoration: none;
+      }
+      @media (min-width: 480px) {
+        .Header {
+          align-items: center;
+          display: flex;
+          font-size: 2ch;
+          justify-content: center;
+        }
+      }
+    </style>
+  </head>
+  <body>
+    <article class="Content">
+      <header class="Header"><img src="./assets/micro.svg" alt="Icono del Podcast WebPerf Impacters" width="50" height="50" class="Logo" /><h1 class="Title">WebPerf Impacters</h1></header>
+      <section class="Description"><p>🎙 Podcast sobre Web Performance en el que encontrarás toda la actualidad sobre <span class="Highlight">#webperf</span>, tips, best practices y case studies para conseguir un rendimiento de 100.</p></section>
+      <footer class="Footer"><a href="https://twitter.com/WebPerfImpacter" class="Highlight">@WebPerfImpacter</a></footer>
+    </article>
+  </body>
+</html>
