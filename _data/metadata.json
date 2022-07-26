@@ -1,26 +1,20 @@
 {
-  "title": "Title of the website. Update me.",
-  "url": "https://update-me.com",
-  "domain": "update-me.com",
-  "description": "Description of the website. Update me.",
-  "genre": "Insert a schema.org genre",
-  "googleAnalyticsId": "GA ID. Update me. Note, that this is not compatible with the not-yet-commonly used version 4 of Google Analytics",
-  "sendWebVitals": false,
+  "title": "WebPerf Impacters",
+  "url": "https://webperfimpacters.com/",
+  "language": "ew",
+  "description": "🎙 Podcast sobre Web Performance en el que encontrarás toda la actualidad sobre #webperf, tips, best practices y case studies para conseguir un rendimiento de 100.",
   "feed": {
-    "subtitle": "Subtitle. Update me.",
+    "subtitle": "Last articles:",
     "filename": "feed.xml",
     "path": "/feed/feed.xml",
-    "id": "https://update-me.com"
+    "id": "https://webperfimpacters.com/"
   },
   "jsonfeed": {
     "path": "/feed/feed.json",
-    "url": "https://update-me.com/feed/feed.json"
+    "url": "https://webperfimpacters.com/feed/feed.json"
   },
   "author": {
-    "name": "Author Name. Update me.",
-    "twitterHandle": "update_me"
-  },
-  "publisher": {
-    "name": "Publisher name. Update me."
+    "name": "Estela Franco",
+    "url": "https://estelafranco.com/about-me/"
   }
 }

@@ -1,0 +1,12 @@
+---
+layout: layouts/home.njk
+permalink: /capitulos/
+eleventyNavigation:
+  key: Capítulos
+  order: 1
+---
+<article>
+  <h1>Capítulos</h1>
+  {% set episodeslist = collections.episodes %}
+  {% include "episodeslist.njk" %}
+</article>

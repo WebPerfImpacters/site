@@ -1,0 +1,8 @@
+<ol reversed class="postlist" style="counter-reset: start-from {{ (episodeslistCounter or episodeslist.length) + 1 }}">
+{% for episode in episodeslist | reverse %}
+  <li class="postlist-item{% if episode.url == url %} postlist-item-active{% endif %}">
+    <a href="{{ episode.url | url }}" class="postlist-link">{% if episode.data.title %}{{ episode.data.title }}{% else %}<code>{{ episode.url }}</code>{% endif %}</a>
+    <time class="postlist-date" datetime="{{ episode.date | htmlDateString }}">{{ episode.date | readableDate }}</time>
+  </li>
+{% endfor %}
+</ol>
