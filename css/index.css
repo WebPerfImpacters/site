@@ -51,7 +51,7 @@ a:hover {
 }
 main {
   flex-grow: 1;
-  margin: 4em auto 0 auto;
+  margin: 6em auto;
   width: min(45em, 90%);
 }
 main a {
@@ -292,7 +292,7 @@ footer {
   margin-top: 0.5em;
 }
 .last-articles {
-  margin-bottom: 1em;
+  margin: 3em 0;
 }
 @media (min-width: 768px) {
   .home-hero {
@@ -306,9 +306,11 @@ footer {
   }
   .home-title {
     font-size: 3em;
+    margin-bottom: 0.2em;
   }
   .home-subtitle {
-    font-size: 1.25em;
+    color: rgb(71, 85, 105);
+    line-height: 1.5em;
   }
 }
 /* Prev-Next articles */
@@ -349,7 +351,6 @@ footer {
   word-spacing: -0.5px;
 }
 .postlist-link {
-  padding-left: 0.25em;
   padding-right: 0.25em;
   text-underline-position: from-font;
   text-underline-offset: 0;
@@ -357,6 +358,9 @@ footer {
 }
 .postlist-item-active .postlist-link {
   font-weight: bold;
+}
+.postlist-description {
+  margin: 0;
 }
 .tmpl-home .postlist-link {
   font-size: 1.1875em;

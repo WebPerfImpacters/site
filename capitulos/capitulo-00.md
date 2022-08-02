@@ -1,6 +1,6 @@
 ---
 title: Capítulo 00 - Piloto
-description: Lorem ipsum dolor sit amet
+description: Os damos la bienvenida al episodio 0. Hablamos sobre WebPageTest, Chrome DevTools y otras novedades.
 date: 2022-06-05
 layout: layouts/post.njk
 ---
