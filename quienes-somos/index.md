@@ -1,7 +1,7 @@
 ---
 layout: layouts/about.njk
 title: Quiénes somos - WebPerf Impacters
-description: Lorem ipsum dolor sit amet.
+description: Somos un grupo de entusiastas del rendimiento web. Hablamos sobre herramientas y técnicas para encontrar y resolver problemas que afectan a sitios web.
 h1: ¡Hola 👋!
 templateClass: tmpl-post
 eleventyNavigation:

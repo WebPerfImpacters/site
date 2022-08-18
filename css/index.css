@@ -335,6 +335,7 @@ footer {
   align-items: baseline;
   counter-increment: start-from -1;
   line-height: 1.8;
+  margin-bottom: 1rem;
 }
 .postlist-item:before {
   display: inline-block;

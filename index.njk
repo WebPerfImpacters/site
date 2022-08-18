@@ -23,6 +23,7 @@ layout: layouts/home.njk
 
         <p><a href="{{ '/capitulos/' | url }}">Todos los capítulos</a> →</p>
     </section>
+    {% if collections.posts | length > 0 %}
     <section class="last-articles">
         <h3>{% if maxPosts == 1 %}Último Artículo{% else %}Últimos {{ maxPosts }} Artículos{% endif %}</h3>
 
@@ -32,3 +33,4 @@ layout: layouts/home.njk
 
         <p><a href="{{ '/blog/' | url }}">Todos los artículos</a> →</p>
     </section>
+    {% endif %}
