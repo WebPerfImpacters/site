@@ -11,3 +11,14 @@ Exploramos la nueva Core Web Vital, Interaction to Next Paint (INP) y entrevista
     src="https://open.spotify.com/embed/episode/76a0CN1gijPRwWOGZ9jrI3" width="100%" height="152"
     frameBorder="0" allowfullscreen=""
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+
+## Actualidad
+
+- [SpeedCurve - novedades de junio 2022](https://www.speedcurve.com/blog/product-update-june-2022/)
+- [Soporte de AVIF en macOS Ventura y iOS16](https://twitter.com/jensimmons/status/1547693585922789381)
+- [Release de Next.js 12.2](https://nextjs.org/blog/next-12-2)
+
+## Eventos y conferencias
+
+- [performance.now()](https://perfnow.nl/): Conferencia sobre web performance en Amsterdam.
+
