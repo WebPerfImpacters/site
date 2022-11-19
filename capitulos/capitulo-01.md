@@ -1,6 +1,6 @@
 ---
 title: "Capítulo 01 - Experimental Metrics: Interaction to Next Paint - Entrevista a Núria Soriano de Codely TV"
-description: Tratamos a fondo Interaction to Next Paint (INP) y entrevistamos a Núria Soriano de CodelyTV.
+description: Hablamos a fondo sobre la Core Web Vital Interaction to Next Paint (INP) y entrevistamos a Núria Soriano de CodelyTV.
 date: 2022-08-15
 layout: layouts/post.njk
 ---
