@@ -46,7 +46,7 @@ Y quienes sí están con nosotros, que ahora les doy paso para que se presenten,
 
 **Jose**: Sí, y creo que también fue la principal queja entre muchos desarrolladores que igual tenían una página que iba bastante rápida, pero no había ninguna forma de ocupar ese espacio en el carrusel de arriba del todo.
 
-**Joan**: Muy interesante. Bueno, pues me gustaría explicar las expectativas que tenemos sobre el podcast. Ya hemos comentado que queremos compartir recursos y estar al día. Nos sirve también a nosotros para guionizar todas las novedades que van saliendo, que últimamente no son pocas y compartirlas para que las tengáis. Iremos colgando todos los episodios en diferentes plataformas y [en nuestra propia web](https://www.webperfimpacters.com/).
+**Joan**: Muy interesante. Bueno, pues me gustaría explicar las expectativas que tenemos sobre el podcast. Ya hemos comentado que queremos compartir recursos y estar al día. Nos sirve también a nosotros para guionizar todas las novedades que van saliendo, que últimamente no son pocas y compartirlas para que las tengáis. Iremos colgando todos los episodios en diferentes plataformas y [en nuestra propia web](/).
 
 Una de las cosas que queremos comentar porque es muy novedosa, de hecho tiene tres días, el 1 de junio salió como novedad, WebPageTest Pro. Una nueva feature de la herramienta WebPageTest que todas y todos habéis utilizado si estáis relacionados con el tema de web performance. La verdad es que con unas features muy interesantes. Estela, ¿qué nos cuentas de las features?
 
