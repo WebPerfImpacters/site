@@ -1,6 +1,7 @@
 ---
 title: "Capítulo 03 - Performance.now() y entrevista a   Alba Silvente"
 description: Venimos con noticias de primera mano después de asistir a la conferencia Performance.now() en Amsterdam y entrevistamos a Alba Silvente, Developer Relations Engineer en Storyblok.
+thumb: /img/capitulos/capitulo-03/thumb.jpg
 date: 2022-11-06
 layout: layouts/post.njk
 ---
