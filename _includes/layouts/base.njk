@@ -11,14 +11,14 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="{{ title or metadata.title }}">
     <meta property="og:description" content="{{ description or metadata.description }}">
-    <meta property="og:image" content="{{ thumb or metadata.thumb}}">
+    <meta property="og:image" content="{{ metadata.baseUrl }}{{ thumb or metadata.thumb}}">
 
     <!-- Twitter Meta Tags -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="{{ metadata.twitter }}">
     <meta name="twitter:title" content="{{ title or metadata.title }}">
     <meta name="twitter:description" content="{{ description or metadata.description }}">
-    <meta name="twitter:image" content="{{ thumb or metadata.thumb}}">
+    <meta name="twitter:image" content="{{ metadata.baseUrl }}{{ thumb or metadata.thumb}}">
 
     <meta name="generator" content="{{ eleventy.generator }}">
     <link rel="icon" href="/img/favicon.svg">
