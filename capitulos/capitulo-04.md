@@ -22,7 +22,7 @@ En este episodio repasamos las noticias relacionadas con la Web Performance, hab
 *   [Speed Curve lanza un dashboard](https://www.speedcurve.com/blog/real-user-monitoring-compare-dashboard/) para comparar RUM
 *   Web.dev ha publicado [una guía centrada en la optimización de la métrica Interaction to Next Paint](https://web.dev/optimize-inp/).
 *   Lanzamiento de la beta de [RUM Archive by Akamai](https://rumarchive.com/) 
-*   [Calendar.PerfPlanet.com](http://calendar.perfplanet.com/): un año más (y desde 2009), ya está en marcha esta iniciativa en la que cada día y hasta Navidad se publica un nuevo artículo sobre web performance.
+*   [Calendar.PerfPlanet.com](https://calendar.perfplanet.com/2022/): un año más (y desde 2009), ya está en marcha esta iniciativa en la que cada día y hasta Navidad se publica un nuevo artículo sobre web performance.
 *   Release de [Chrome 108](https://chromestatus.com/features#milestone%3D108). [Post](https://developer.chrome.com/blog/chrome-108-beta) y [novedades en Dev Tools](https://developer.chrome.com/blog/new-in-devtools-108/). Nueva forma de hacer prerendering con [Speculation Rules](https://developer.chrome.com/blog/prerender-pages/) para hacer prerender de páginas.
 *   Nueva feature de [Chrome para ahorrar batería]( https://blog.google/products/chrome/new-chrome-features-to-save-battery-and-make-browsing-smoother/)
 *   [Experimento para exponer las Core Web Vitals para las soft navigations en SPAs](https://groups.google.com/a/chromium.org/g/blink-dev/c/IK-IZTBo59U/m/r8WaR2YOBQAJ) (a partir de Chrome 109)  
