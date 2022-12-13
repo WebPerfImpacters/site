@@ -8,8 +8,8 @@ layout: layouts/post.njk
 
 En este episodio repasamos las noticias relacionadas con la Web Performance, hablamos sobre qué recursos utilizamos para aprender sobre Web Performance y compartimos qué regalos nos gustaría recibir.
 
-<iframe loading="lazy" style="border-radius:12px"
-    src="https://open.spotify.com/embed/episode/2HxMwCkgRr9Jj3JjdMQJY8" width="100%" height="152"
+<iframe loading="lazy" style="border-radius:12px; aspect-ratio:16/9"
+    src="https://open.spotify.com/embed/episode/2HxMwCkgRr9Jj3JjdMQJY8/video" width="100%"
     frameBorder="0" allowfullscreen=""
     allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
 
